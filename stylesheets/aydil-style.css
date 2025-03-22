@@ -1,3 +1,8 @@
 /* Sammy's Stylesheet */
 
-h1 {color: steelblue}
+h1 {
+  color: steelblue;
+}
+html body {
+  margin: 2em;
+}
