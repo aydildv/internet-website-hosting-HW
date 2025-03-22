@@ -2,9 +2,7 @@
 
 An example student website, hosted by [GitHub Pages](https://pages.github.com/).
 
-View live in production at https://prof-rossetti.github.io/student-site.
-
-![a demonstration of website functionality showing navigation between a few linked pages](https://raw.githubusercontent.com/SCSU-CSC-Department/201701-csc-443-01/e3ff575a3afab0f7b4a621a5246d05e51495759d/projects/personal-website/demo.gif)
+View live in production at [https://aydildv.github.io/internet-website-hosting-HW/index.html](https://aydildv.github.io/internet-website-hosting-HW/index.html).
 
 ## Installation
 
